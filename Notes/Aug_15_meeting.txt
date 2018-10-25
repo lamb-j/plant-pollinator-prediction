@@ -1,0 +1,24 @@
+- Currently validating the correctness of my matrix decomposition
+   - generate some data where I know the answer and see if it matches
+
+- Choice of training sets vs. testing sets
+    - division of subplots within the meadow
+    - (year/meadow division?)
+    - 
+
+- Should we reduce the testing set to only distinct entries from the training set?
+
+- Ecological goals
+    - compare highly-predicted interaction's with Andy's ecologically-inspired preference-prediction matrix
+
+
+To Do:
+
+  Finish validating correctness of matrix decomp
+  
+  
+
+
+Julia's comments:
+  Use only only zeros from training set to detect differences. 
+  predict both by dividing subplots and removing stuff

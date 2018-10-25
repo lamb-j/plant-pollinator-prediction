@@ -1,0 +1,36 @@
+Communities in ecological contexts are complex structures. Several 
+types of relationships between species exist in communities, which create
+layers of interdependance. The study of these relationships and their 
+effects on the community structures has significant ecological 
+implications (Bronstein et al 2006)[1]. 
+
+Mutualistic relationships are especially interesting because of their
+contrast with competition or predator-prey-based relationships. 
+Plant-pollinator networks are a
+common but ecologiciaclly crucial example of mutualistic relationships.
+(Ollerton et al. 2011)[2]. These mutualistic networks comprise a large
+number of diverse plants and pollinators (Bascompte and Jordano 2007)[3], 
+and they fill an importnat role in many land ecosystems. 
+Seventy-five percent of leading food crop production depends on
+pollinators (Klein et al. 2007)[4].
+
+Despite the critical enviornmental role of plant-pollinator networks, 
+there exist many open questions regarding the community structure, 
+inter-species dependancies, and network stability under enviornmental
+pertubation such as climate change (Hegland et al. 2009)[5]. 
+
+[1]Bronstien, J. R alacon, M. Geber 2006. The evolution of plant-insect
+mutualisms
+
+[2] Ollerton, J., R. Winfree, and S. Tarrant. 2011. How many flowering
+plants are pollinated by animals?
+
+[3] Bascompte, J., and P. Jordano 2007. Plant-animal mutualistic netowrks:
+the architecture of biodiversity.
+
+[4] Klein A. M. Vassiere, Cane, Steffan-Dewtenr 2007. Importance of
+pollinators in the changing landscapes for world crops
+
+
+[5] Hegland, Stein Joar, et al. "How does climate warming affect plant-pollinator interactions?." Ecology Letters 12.2 (2009): 184-195.
+

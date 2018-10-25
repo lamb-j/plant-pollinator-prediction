@@ -1,0 +1,54 @@
+EISI Project 2014
+Plant-Pollinator Team
+Jacob Lambert
+Week 7 Update
+
+------------------------------------------------------------------
+Rough problem statement:
+
+  I plan to use link-prediction algorithms to determine possible
+unobserved plant-pollinator interactions in our bipartite plant-
+pollinator networks. 
+  
+  Andy Moldenke theorizes that almost all physically possible
+interactions probably occur. He has created a type of color-coded
+probability matrix for the possible interactions based on ecological
+observations and intuition. 
+
+  I think it would be interesting to generate a matrix by applying 
+link-prediction to our data, and then compare this to Andy's matrix,
+which could to some degree either validate or nullify his theory.
+
+  Also, I would like to implement, along with the link-prediction 
+algorithms, personal intuition gained by collecting data. For 
+example, I hypothesize that the probability of detection is 
+inversely correlated to the sizes of the insects and flowers. 
+However, for plot watches with few large insects, this may not be 
+the case (if there are no large insects constantly visiting the plot,
+I am more likely to search harder for smaller insects and flowers). 
+
+
+
+------------------------------------------------------------------
+Method:
+
+[f] implicit feedback        (matrix factorization)
+
+- Although the oldest method I've researched so far, implicit 
+feedback [4] seems to match the plant-pollinator dataset very well.
+Higher numbers of observations don't necessarily indicate 
+preference, but confidence of the observation.
+
+Method considerations:
+- Assuming I can feasibly implement this method in R or another
+appropriate programming language, I think this method best fits
+our data set.
+would be to implement in R (or some other programming language if 
+choosing which methods to implement.
+
+------------------------------------------------------------------
+Main inspiration paper:
+ 
+[4] 2008 Collaborative filtering for implicit feedback datasets
+ - Hu, Koren, Volinsky
+ - labs.yahoo.com/files/HuKorenVolinsky-ICDM08.pdf

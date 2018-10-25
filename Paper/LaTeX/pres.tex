@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{amsbsy}
+%\newcommand*{\clap}[1]{\hbox to 0pt{\hss#1\hss}}
+\newcommand*{\mat}[1]{\boldsymbol{\mathrm{#1}}}
+\newcommand*{\subdims}[3]{\clap{\raisebox{#1}[0pt][0pt]{$\scriptstyle(#2 \times #3)$}}}
+\fboxrule=1pt
+
+\begin{document}
+
+\[
+\framebox[2.5cm]{\clap{\raisebox{0pt}[1.5cm][1.5cm]{$\mat r$}}\subdims{-2.5cm} m n} =
+\framebox[1.5cm]{\clap{\raisebox{0pt}[1.5cm][1.5cm]{$\mat X$}}\subdims{-2.5cm} m f} \ 
+\framebox[2.5cm]{\clap{\raisebox{5mm}[1.5cm]{$\mat Y$}}     \subdims{-1cm} f n}
+\]
+
+\end{document}

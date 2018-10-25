@@ -1,0 +1,6 @@
+Gilia:
+      - 13 flowers/raceme
+      - 5 interactions/raceme
+
+Achillea:
+      - 60 flowers/stem (not umbal)

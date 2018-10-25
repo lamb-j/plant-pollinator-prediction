@@ -1,0 +1,31 @@
+EISI - Week 5 Update
+Jacob Lambert
+
+After speaking with Tom and Jorge on Tuesday, I have decided to focus on link prediction methods for our plant-pollinator network. I have researched
+a few methods, and I plan to read more before choosing which specific methods would be most appropriate and accurate for our dataset. 
+
+Some link prediction methods used in practice can be divided into two categories, rating systems and association systems. The rating systems
+use your current ratings and other users ratings to predict ratings for your unrated items. If we could find a way to project a rating mechanism 
+onto our network, we could apply those types of methods and take advantage of the edge weights in our network. Alternatively, the other link 
+prediction methods would use only the binary association matrix. 
+
+Methods researched so far:
+
+  - preferential attachment (local)
+  - von Neumann kernel
+  - hyperbolic sin
+
+Considerations
+
+  - weighted vs binary edges (conversion of normalized edge weights to ratings?)
+  - random vs nonrandom replacement/removal of edges for generation and testing
+  - inclusion of traits to weight edge or edge existence (pre-algorithm)
+  - potential coefficient of produced predictive values based on size, rarity, generality, or other traits (post-algorithm)
+
+Goal
+  - compare different methods and different parameters
+  - implications for extinction cascades, network stability, and possible unobserved dependencies
+
+To research
+  - additional methods and algorithms
+  - implementation of algorithms

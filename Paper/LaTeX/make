@@ -1,0 +1,3 @@
+latex EISI_Report.tex;
+bibtex EISI_Report;
+pdflatex EISI_Report.tex;

@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{relsize}
+
+\begin{document}
+
+\begin{table}[!htbp] \centering
+  \caption{Examples of configurations of varibles used to tune the algorithm. Lower values of $\overline{rank}$, shown
+  in the right columns, represent better algorithm performance. The actual validation test, represented by $(r^s,r^v)$
+  is compared against a lowerbound $lb$ where the ranks of the test set are known, an upperbound $ub$ where the ranks
+  are in reverse order, and $(r^s, r^s)$, where the training set and test set are equivalent. }
+  \begin{tabular}{@{\extracolsep{1pt}} ccrc|cccc}
+    \\[-1ex]\hline
+    \hline \\[-1ex]
+      & & Parameters & & & & $\overline{rank} = MPR(train, test)$  & \\
+    \hline \\[-1ex]
+      $\alpha$ & $\epsilon$ & $\lambda$ & $f$ & $ub$ & $lb$ & $(r^s,r^v)$ & $(r^s, r^s)$ \\
+    \hline \\[-1ex]
+      $1$   & $10^-8$ & $0.01$ & $1$ & $0.0$ & $0.0$ & $0.0$ & $0.0$ \\ 
+      $1$   & $10^-8$ & $0.1$  & $5$ & $0.0$ & $0.0$ & $0.0$ & $0.0$ \\ 
+      $20$  & $10^-8$ & $0.01$ & $1$ & $0.0$ & $0.0$ & $0.0$ & $0.0$ \\ 
+      $20$  & $10^-8$ & $0.1$  & $5$ & $0.0$ & $0.0$ & $0.0$ & $0.0$ \\ 
+      $100$ & $10^-8$ & $0.01$ & $1$ & $0.0$ & $0.0$ & $0.0$ & $0.0$ \\ 
+      $100$ & $10^-8$ & $0.1$  & $5$ & $0.0$ & $0.0$ & $0.0$ & $0.0$ \\ 
+    \hline \\[-1ex]
+  \end{tabular}
+\end{table}
+
+
+\end{document}

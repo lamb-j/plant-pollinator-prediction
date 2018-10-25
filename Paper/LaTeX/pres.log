@@ -1,0 +1,117 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2012.12.14)  20 AUG 2014 12:39
+entering extended mode
+ %&-line parsing enabled.
+**pres.tex
+(./pres.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(/usr/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+)
+\pmbraise@=\dimen104
+)
+No file pres.aux.
+\openout1 = `pres.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+! Undefined control sequence.
+<argument> \clap 
+                 {\raisebox {0pt}[1.5cm][1.5cm]{$\mat r$}}\subdims {-2.5cm} m n
+l.11 ...cm][1.5cm]{$\mat r$}}\subdims{-2.5cm} m n}
+                                                   =
+? 
+! Undefined control sequence.
+\subdims #1#2#3->\clap 
+                       {\raisebox {#1}[0pt][0pt]{$\scriptstyle (#2 \times #3...
+l.11 ...cm][1.5cm]{$\mat r$}}\subdims{-2.5cm} m n}
+                                                   =
+? 
+! Undefined control sequence.
+<argument> \clap 
+                 {\raisebox {0pt}[1.5cm][1.5cm]{$\mat X$}}\subdims {-2.5cm} m f
+l.12 ...cm][1.5cm]{$\mat X$}}\subdims{-2.5cm} m f}
+                                                   \
+? 
+! Undefined control sequence.
+\subdims #1#2#3->\clap 
+                       {\raisebox {#1}[0pt][0pt]{$\scriptstyle (#2 \times #3...
+l.12 ...cm][1.5cm]{$\mat X$}}\subdims{-2.5cm} m f}
+                                                   \
+? 
+! Undefined control sequence.
+<argument> \clap 
+                 {\raisebox {5mm}[1.5cm]{$\mat Y$}} \subdims {-1cm} f n
+l.13 ...[1.5cm]{$\mat Y$}}     \subdims{-1cm} f n}
+                                                  
+? 
+! Undefined control sequence.
+\subdims #1#2#3->\clap 
+                       {\raisebox {#1}[0pt][0pt]{$\scriptstyle (#2 \times #3...
+l.13 ...[1.5cm]{$\mat Y$}}     \subdims{-1cm} f n}
+                                                  
+? 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./pres.aux) ) 
+Here is how much of TeX's memory you used:
+ 273 strings out of 256216
+ 2882 string characters out of 1917071
+ 48804 words of memory out of 1500000
+ 3629 multiletter control sequences out of 10000+200000
+ 6397 words of font info for 23 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 28i,8n,27p,181b,130s stack positions out of 5000i,500n,6000p,200000b,15000s
+</usr/share/
+texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/type1/bluesky/c
+m/cmmi7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmr10.pfb></usr/share/texm
+f/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy
+7.pfb>
+Output written on pres.pdf (1 page, 14109 bytes).
+PDF statistics:
+ 26 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

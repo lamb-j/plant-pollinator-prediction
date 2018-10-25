@@ -1,0 +1,20 @@
+Week 3 Update - Jacob Lambert
+EISI July 4, 2014
+
+Week 3 at HJA was very interesting. We spent most of the week collecting data in the meadows, 
+and I am now more confident my ability to identify plants and collect pollinators. 
+Regarding my personal project idea, this week I have refined one possible avenue for research.  
+
+I have decided to explore the idea of applying machine learning approaches to our plant-pollinator 
+network. The main goal is to train a machine using our data and known ecological observations 
+that can then classify and categorize other plants and pollinators. I have also looked into some 
+collaborative filtering algorithms, such as those used by amazon and netflix, for determining a pollinator's
+preferences for unobserved interactions. Currently I am preparing to research different algorithms 
+in order to find one that can provide the best results with our available data.
+
+On an unrelated note, I also considered the creation of an agent-based model of the
+plant-pollinator network and what we could learn from it, but I have not had time to research
+this idea.
+
+I plan to coordinate further with Jorge and Rebecca for direction and advice regarding 
+these research idea.

@@ -1,0 +1,20 @@
+year,order,DBCODE,ENTITY,COMPLEX,MEADOW,DATE,WATCH,OBSERVER,PLOT,START,,MINUTE,CLOUDS,WIND,TEMP,STATUS,NO_INT,PLTSP_CODE,PLTSP_NAME,VISSP_CODE,VISSP_NAME,VECTOR GUILD,COLLECTION NUMBER,NOTES,NOTES,NOTES,NOTES,NOTES,NOTES,NOTES,NOTES,NOTES,NOTES,ENTRY,FLAGGED
+11,,SA026,1,Carpenter,CPB,7/12/11,1,NA,2,NA,,3,S,B,,1,1,VIOLORBI,Viola orbiculata,PLATRUFO,Platycheirus rufofasciatus,predaceous hover-fly,,,,,,,,,,,,2,
+11,,SA026,1,Carpenter,CPB,7/12/11,1,NA,5,NA,,1,S,ST,,1,1,FRAGVIRG,Fragaria virginiana,TENTSPX4,Tenthredinid sp 4,herbivorous primitive wasp,,,,,,,,,,,,3,
+11,,SA026,1,Carpenter,CPB,7/12/11,1,NA,5,NA,,3,S,ST,,1,1,CARESPXX,Carex sp X,PLATRUFO,Platycheirus rufofasciatus,predaceous hover-fly,,,,,,,,,,,,4,
+11,,SA026,1,Carpenter,CPB,7/12/11,1,NA,5,NA,,3,S,ST,,1,1,DELPNUTT,Delphinium nuttallianum,BOMBMIXT,Bombus mixtus,social bee,,,,,,,,,,,,5,
+11,,SA026,1,Carpenter,CPB,7/12/11,1,NA,9,NA,,2,S,ST,,1,1,CARESPXX,Carex sp X,PLATRUFO,Platycheirus rufofasciatus,predaceous hover-fly,,,,,,,,,,,,6,
+11,,SA026,1,Carpenter,CPB,7/12/11,1,NA,9,NA,,2,S,ST,,1,1,CARESPXX,Carex sp X,PLATRUFO,Platycheirus rufofasciatus,predaceous hover-fly,,,,,,,,,,,,7,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,1,S,ST,,1,3,COLLPARV,Collinsia parviflora,XYLOSPX4,Xylota sp 4,decomposer hover-fly,,,,,,,,,,,,8,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,1,S,ST,,1,1,LOMAMART,Lomatium martindalei,BLERSCIT,Blera scitula,decomposer hover-fly,,,,,,,,,,,,9,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,1,S,ST,,1,1,LOMAMART,Lomatium martindalei,MUSCGEN1,Muscoid genus 1,herbivorous muscoid fly,,,,,,,,,,,,10,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,1,S,ST,,1,3,LOMAMART,Lomatium martindalei,XYLOSPX4,Xylota sp 4,decomposer hover-fly,,,,,,,,,,,,11,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,1,S,ST,,1,3,PHLOGRAC,Phlox gracilis,XYLOSPX4,Xylota sp 4,decomposer hover-fly,,,,,,,,,,,,12,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,3,LOMAMART,Lomatium martindalei,NOMASPX5,Nomada sp 5,kloeptoparasitic bee,,,,,,,,,,,,13,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,2,LOMAMART,Lomatium martindalei,PENTSPX1,Pentaria sp 1,herbivorous beetle,,,,,,,,,,,,14,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,2,LOMAMART,Lomatium martindalei,PENTSPX1,Pentaria sp 1,herbivorous beetle,,,,,,,,,,,,15,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,2,LOMAMART,Lomatium martindalei,PENTSPX1,Pentaria sp 1,herbivorous beetle,,,,,,,,,,,,16,
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,2,LOMAMART,Lomatium martindalei,PENTSPX1,Pentaria sp 1,herbivorous beetle,,,,,,,,,,,,17
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,3,LOMAMART,Lomatium martindalei,PENTSPX1,Pentaria sp 1,herbivorous beetle,,,,,,,,,,,,18
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,1,NA,,2,S,ST,,1,3,LOMAMART,Lomatium martindalei,PENTSPX1,Pentaria sp 1,herbivorous beetle,,,,,,,,,,,,19
+11,,SA026,1,Carpenter,CPM,7/12/11,1,NA,4,NA,,3,S,B,,1,1,DELPNUTT,Delphinium nuttallianum,BOMBCALI,Bombus californicus,social bee,,,,,,,,,,,,20

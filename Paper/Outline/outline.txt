@@ -1,0 +1,75 @@
+EISI Project 2014 Outline
+Jacob Lambert
+
+  1. Title
+ 
+  2. Abstract
+    - plant-pollinator networks and their importance
+    - recommender systems
+    - application of implicit feedback to plant-pollinator network
+    - possible interpretation of results
+
+  3. Introduction
+    - plant-pollination in HJA, more details about importance
+    - bipartite network representation of the plant-pollinator network
+    (figure of bipartite)
+    - recommendor systems
+    - collaborative filtering systems
+    - explicit feedback vs implicit feedback
+    - implicit Feedback system and why it's appropriate
+
+  4. Data Collection
+    - complex -> meadow -> plot distictions
+    - flower survey
+      : considerations for composite flowers
+    - interaction survey (recording methods especially)
+    - identification methods (photos, samples, kill jars)
+    - data sturucture
+    - completion methods for unidentified plants
+
+  5. Methods
+    - considerations/redefinitions of varibles for application
+       to the plant-pollinator network
+    - implementation of IFMF
+    - testing and training methods
+      : potential weakness of training methods
+      : dividing by subplots
+      : removal/completion training
+    (figure of number comparisons)
+    - parameter tuning
+
+  6. Results
+    - visualization of resulting preferecne matricies
+    (figures of the color matricies)
+    - results with different parameter tunings and preference thresholds
+    - explanations of the visualizations
+      : what we're looking for, what would be indications of ecological
+      importance
+
+  7. Discussion/Future Work
+    - comparison with lower bound
+    - comparison with baseline (populatiry-based preferences)
+      : From what I've observed so far, the recommendation system
+      seems to compute high preferences for popular flowers, which is
+      expected. However, it would be interesting to see where this 
+      hypothesis fails (and potentially ecologically significant).
+    - comparison with Rebecca's choice method and how they differ
+    - comparison with Andy's matrix
+    (figure of Andy's matrix from his powerpoint presented in Spain)
+    - recommendation explanations
+    - weighting of pmatrix by insect/plant size
+    - figuring out a way to account for plant seasonality
+    - possible ecological interpretations of latent factors
+    - ecological justificatiosn for caring about missed observations
+    - possible applications to other mutualistic animal networks
+    
+  8. References
+    - IFMF     (method I'm using)
+    - IFMF2    (method Rebecca's using
+    - recommender systems general
+    - collaborative filtering
+    - explicit feedback paper (for intro comparisons)
+    - Some ecology that highlights the importance of 
+        plant-pollinator networks
+    - Andy's presentation
+    - others?

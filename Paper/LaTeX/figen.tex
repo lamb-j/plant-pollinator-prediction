@@ -1,0 +1,6 @@
+> pdf("train_pf.pdf", width = 10, height = 5)
+> par(mfrow=c(1,2))
+> image(x=1:n ,y = 1:m, t(trainMat2011), xlab = "Plants", ylab = "Pollinators")
+> image(x=1:n ,y = 1:m, t(epf), xlab = "Plants", ylab = "Pollinators")
+> dev.off()
+
